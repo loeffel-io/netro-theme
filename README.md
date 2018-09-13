@@ -9,4 +9,5 @@ The Netro WordPress Theme
 
 - [Download](https://github.com/loeffel-io/netro-theme/archive/master.zip) the latest version
 - Unzip the file to your WordPress themes directory `wp-content/themes`
+- Activate the theme in your WP Admin
 - Check out the frontend docs for more informations: [The Frontend Documentation]()
