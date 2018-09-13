@@ -3,4 +3,10 @@
 
 # netro-theme
 
-The Netro Theme
+The Netro WordPress Theme
+
+## Installation
+
+- [Download](https://github.com/loeffel-io/netro-theme/archive/master.zip) the latest version
+- Unzip the file to your WordPress themes directory `wp-content/themes`
+- Check out the frontend docs for more informations: [The Frontend Documentation]()
