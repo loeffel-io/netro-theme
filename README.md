@@ -3,7 +3,7 @@
 
 # netro-theme
 
-The Netro WordPress Theme
+The [Netro](https://github.com/loeffel-io/netro) WordPress Theme
 
 ## Installation
 
