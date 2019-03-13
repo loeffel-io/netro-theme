@@ -3,4 +3,5 @@ assets/dist
 yarn-error.log
 /netro/*
 !/netro/.env
+!/netro/app.php
 !.gitkeep
