@@ -7,5 +7,3 @@
     <link rel="stylesheet" type="text/css" href="<?= asset('dist/app.css') . '?v=' . rand(1, 9999) ?>">
 </head>
 <body>
-
-<?php
