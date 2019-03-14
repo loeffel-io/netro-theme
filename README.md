@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/loeffel-io/netro-theme.svg?token=diwUYjrdo8kHiwiMCFuq&branch=master)](https://travis-ci.com/loeffel-io/netro-theme)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/whats2doo/page/blob/master/LICENSE)
 
 # netro-theme
